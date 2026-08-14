@@ -123,8 +123,3 @@ git push -u origin main --force
 ```
 
 ---
-
-## 📄 License & Attribution
-
-Developed for **Tamil Nadu Education Board Initiatives**.  
-Designed & Implemented by **DeepMind Advanced Agentic Coding Team & Pair Engineering System**.
