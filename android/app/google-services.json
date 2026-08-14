@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775748763322",
+    "project_id": "dropout-prediction-af891",
+    "storage_bucket": "dropout-prediction-af891.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775748763322:android:ddfcb00d6039885718cc83",
+        "android_client_info": {
+          "package_name": "com.bitzapp.dropoutprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaR9u-078EYv7oGzPJBExvItsZsR8qNRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
